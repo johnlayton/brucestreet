@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: com.github.johnlayton.brucestreet
+---
+testFramework: kotlintest
+sourceLanguage: kotlin
